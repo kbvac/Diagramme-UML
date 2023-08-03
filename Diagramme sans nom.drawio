@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T11:17:52.082Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="KMiSaEg-LHNJLibBnSGL" version="21.6.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-03T11:19:12.516Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="X6DhtrONUhUCc5dX6usF" version="21.6.6" type="github" pages="5">
   <diagram name="Attribuer promotion" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2868" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -639,7 +639,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="HhWdFgKIFcsO5dBvou71" name="Gérer commande">
+  <diagram id="HhWdFgKIFcsO5dBvou71" name="Gérer étape de la livraison">
     <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
