@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T18:04:43.977Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="z7uqof8cB6g2xE6VUmO1" version="21.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-04T18:06:01.495Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZrnopqkBKDzv_hEccTqU" version="21.6.6" type="github" pages="4">
   <diagram name="Attribution promotion" id="ahY943-MPQnTFEPD0U1o">
     <mxGraphModel dx="1194" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -931,7 +931,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y4RCWTZoOb8gRlzo_XoA" name="Gestion historique commande">
-    <mxGraphModel dx="1194" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2232" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1056,6 +1056,15 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="560" y="1530" as="sourcePoint" />
             <mxPoint x="720" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP8DQ107bA_XBJqObraJ-1" value="Administrateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1503" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PP8DQ107bA_XBJqObraJ-2" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP8DQ107bA_XBJqObraJ-1" target="r0N97DICIq6qjyRV_mc1-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="150" y="1340" as="sourcePoint" />
+            <mxPoint x="310" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
