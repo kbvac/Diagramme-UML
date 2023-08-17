@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T22:54:09.678Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.7" etag="VAtlncovZeKP6AarP62-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T23:28:41.213Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IHJcX-ZhO3eG9LKNIOpS" version="21.6.7" type="github">
   <diagram name="Page-1" id="OhFcPtTlOtvvqWhLXs4T">
-    <mxGraphModel>
+    <mxGraphModel dx="830" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5n6yjhj8xIpn8MunAipn-1" value="Administrateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5n6yjhj8xIpn8MunAipn-4" value="Transporteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5n6yjhj8xIpn8MunAipn-7" value="" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5n6yjhj8xIpn8MunAipn-4" target="5n6yjhj8xIpn8MunAipn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="330" as="sourcePoint" />
+            <mxPoint x="240" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="45" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n6yjhj8xIpn8MunAipn-8" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="5n6yjhj8xIpn8MunAipn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5n6yjhj8xIpn8MunAipn-10" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="555" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
