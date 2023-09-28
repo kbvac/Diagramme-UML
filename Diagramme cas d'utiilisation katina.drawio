@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T19:00:48.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="T9lWqldaY8Q9Zpqs9ljt" version="22.0.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-09-28T19:01:01.555Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vMUUOus2lecDFZ0B8NTs" version="22.0.0" type="github" pages="6">
   <diagram name="DCU-1-CATALOGUE" id="7dpw0_pMJvslr6yB-3tk">
     <mxGraphModel dx="1594" dy="1160" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -992,6 +992,7 @@
             <mxPoint x="310" y="160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="230" y="160" />
+              <mxPoint x="270" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
