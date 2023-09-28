@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T19:20:48.560Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="DZTIcYFSqDVlWZiiG9K7" version="22.0.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-09-28T19:29:56.102Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="TUf9NIj5ITHl6qAQnJLs" version="22.0.0" type="github" pages="7">
   <diagram name="DCU-1-CATALOGUE" id="7dpw0_pMJvslr6yB-3tk">
     <mxGraphModel dx="1594" dy="1160" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -813,7 +813,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ggmZ8VnCwzQpHfJGPRj2" name="DS-1-AUTH">
-    <mxGraphModel dx="918" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1745" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -970,6 +970,9 @@
               <mxPoint x="340" y="440" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9RsBT3Mp0zNSIhCZ6fl6-1" value="DS authentification" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="10" width="830" height="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1128,6 +1131,14 @@
             <mxPoint x="-20" as="offset" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PbeyrmeJvyEp5kS0Hw32" name="Page-7">
+    <mxGraphModel dx="1194" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
