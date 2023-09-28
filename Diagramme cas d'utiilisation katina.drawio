@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T11:38:12.196Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tsCcRhS_XO1SjzPAAZql" version="21.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-28T11:44:06.312Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ghYM-33SeytS5FsuYW3m" version="21.8.2" type="github" pages="2">
   <diagram name="DCU-1-CATALOGUE" id="7dpw0_pMJvslr6yB-3tk">
     <mxGraphModel dx="2021" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -383,10 +383,35 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I3JV3B_jnNRyk98SkZBM" name="DCU-2-AUTH">
-    <mxGraphModel dx="1194" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2791" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6jNxSZJ4AbqkJqiQ951n-1" value="Administrateur&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1580" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0iR6h5REf0ouwAnAJXt-1" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;RÉINITIALISER MOT DE PASSE&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1395" y="350" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2WZdOUQ3pTaMAA4cTsPH-1" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;SE CONNECTER&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="550" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BTpcJvbgPk7hBuJAMmAw-1" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;" edge="1" parent="1" source="6jNxSZJ4AbqkJqiQ951n-1" target="c0iR6h5REf0ouwAnAJXt-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1430" y="460" as="sourcePoint" />
+            <mxPoint x="-1270" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1460" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BTpcJvbgPk7hBuJAMmAw-3" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;" edge="1" parent="1" source="6jNxSZJ4AbqkJqiQ951n-1" target="2WZdOUQ3pTaMAA4cTsPH-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1540" y="485" as="sourcePoint" />
+            <mxPoint x="-1369" y="427" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
