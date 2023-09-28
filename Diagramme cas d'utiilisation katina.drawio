@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T18:26:57.112Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="KfJjeszMXO5IG7vmT0Tf" version="22.0.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-09-28T18:28:46.020Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="jkFlIoEtQZXz2EBM4PKr" version="22.0.0" type="github" pages="5">
   <diagram name="DCU-1-CATALOGUE" id="7dpw0_pMJvslr6yB-3tk">
     <mxGraphModel dx="1594" dy="1160" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -813,7 +813,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ggmZ8VnCwzQpHfJGPRj2" name="DS-1-AUTH">
-    <mxGraphModel dx="1257" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -826,7 +826,7 @@
         <mxCell id="bF1Re2KAg_82YZjI6xNf-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="bF1Re2KAg_82YZjI6xNf-5">
           <mxGeometry x="45" y="130" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bF1Re2KAg_82YZjI6xNf-30" value="Ajouter token &lt;br&gt;aux informations" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="bF1Re2KAg_82YZjI6xNf-29" parent="bF1Re2KAg_82YZjI6xNf-5" source="bF1Re2KAg_82YZjI6xNf-12">
+        <mxCell id="bF1Re2KAg_82YZjI6xNf-30" value="Ajouter token &lt;br&gt;au formulaire" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="bF1Re2KAg_82YZjI6xNf-29" parent="bF1Re2KAg_82YZjI6xNf-5" source="bF1Re2KAg_82YZjI6xNf-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="120" as="sourcePoint" />
             <Array as="points">
@@ -859,7 +859,7 @@
             <mxPoint x="550" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bF1Re2KAg_82YZjI6xNf-16" value="Demander token()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bF1Re2KAg_82YZjI6xNf-14">
+        <mxCell id="bF1Re2KAg_82YZjI6xNf-16" value="Obtenir token()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bF1Re2KAg_82YZjI6xNf-14">
           <mxGeometry x="-0.1423" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -887,22 +887,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bF1Re2KAg_82YZjI6xNf-31" value="Microservice d&#39;authentification" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="610" y="60" width="100" height="390" as="geometry" />
+          <mxGeometry x="570" y="60" width="100" height="390" as="geometry" />
         </mxCell>
         <mxCell id="bF1Re2KAg_82YZjI6xNf-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="bF1Re2KAg_82YZjI6xNf-31">
           <mxGeometry x="45" y="150" width="10" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="bF1Re2KAg_82YZjI6xNf-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="bF1Re2KAg_82YZjI6xNf-31">
-          <mxGeometry x="45" y="190" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bF1Re2KAg_82YZjI6xNf-35" value="Vérifie les &lt;br&gt;informations" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="bF1Re2KAg_82YZjI6xNf-34" parent="bF1Re2KAg_82YZjI6xNf-31" source="bF1Re2KAg_82YZjI6xNf-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="170" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="80" y="200" />
-              <mxPoint x="80" y="220" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="bF1Re2KAg_82YZjI6xNf-33" value="Enoyer requête de connexion()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="bF1Re2KAg_82YZjI6xNf-32">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -910,9 +898,9 @@
             <mxPoint x="659.5" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bF1Re2KAg_82YZjI6xNf-36" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1" target="bF1Re2KAg_82YZjI6xNf-12">
+        <mxCell id="bF1Re2KAg_82YZjI6xNf-36" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1" source="bF1Re2KAg_82YZjI6xNf-32" target="bF1Re2KAg_82YZjI6xNf-12">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="660" y="290" as="sourcePoint" />
+            <mxPoint x="615" y="270" as="sourcePoint" />
             <mxPoint x="320" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -955,7 +943,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bF1Re2KAg_82YZjI6xNf-49" value="PageDashboard" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="720" y="60" width="100" height="390" as="geometry" />
+          <mxGeometry x="690" y="60" width="100" height="390" as="geometry" />
         </mxCell>
         <mxCell id="bF1Re2KAg_82YZjI6xNf-50" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="bF1Re2KAg_82YZjI6xNf-49">
           <mxGeometry x="45" y="350" width="10" height="30" as="geometry" />
