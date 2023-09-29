@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T10:08:01.414Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="fGFW7e8gvrjjo20oaI6V" version="22.0.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-09-29T10:14:33.524Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ZPPlLZMtDWX6qwyRvOwW" version="22.0.0" type="github" pages="7">
   <diagram name="DCU-1-CATALOGUE" id="7dpw0_pMJvslr6yB-3tk">
     <mxGraphModel dx="1594" dy="1160" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -893,7 +893,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ggmZ8VnCwzQpHfJGPRj2" name="DS-1-AUTH">
-    <mxGraphModel dx="1424" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1218,7 +1218,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="PbeyrmeJvyEp5kS0Hw32" name="Page-7">
+  <diagram id="PbeyrmeJvyEp5kS0Hw32" name="DS-3-GESTION-PRODUIT">
     <mxGraphModel dx="1194" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
