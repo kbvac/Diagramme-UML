@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T11:20:05.031Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9MV_MCcMG1DI_F4pZJZd" version="22.0.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-02T11:21:53.070Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vikTk9vjvCSKWab264Xj" version="22.0.0" type="github" pages="7">
   <diagram name="DCU-1-CATALOGUE" id="7dpw0_pMJvslr6yB-3tk">
     <mxGraphModel dx="2237" dy="1569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -909,15 +909,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9RsBT3Mp0zNSIhCZ6fl6-1" value="DS authentification" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="10" width="800" height="590" as="geometry" />
+          <mxGeometry x="-20" y="10" width="800" height="610" as="geometry" />
         </mxCell>
         <mxCell id="yD8NGxwJsWdbCHve_7js-1" value="Administrateur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="9RsBT3Mp0zNSIhCZ6fl6-1" vertex="1">
           <mxGeometry x="102" y="27" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cHtUBU7bc66GfD6bSxM3-1" value="&lt;b&gt;FEMI Admin&lt;/b&gt;:&amp;nbsp;&lt;i style=&quot;font-weight: bold;&quot;&gt;&amp;nbsp;&lt;/i&gt;est l&#39;interface notre système d&#39;information chargé de la gestion de la boutique" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RsBT3Mp0zNSIhCZ6fl6-1">
-          <mxGeometry x="10" y="560" width="510" height="30" as="geometry" />
+          <mxGeometry x="10" y="540" width="510" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bF1Re2KAg_82YZjI6xNf-5" value="&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;br&gt;FEMI Admin" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9RsBT3Mp0zNSIhCZ6fl6-1" vertex="1">
+        <mxCell id="bF1Re2KAg_82YZjI6xNf-5" value="&amp;lt;&amp;lt;Système&amp;gt;&amp;gt;&lt;br&gt;FEMI Admin" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9RsBT3Mp0zNSIhCZ6fl6-1" vertex="1">
           <mxGeometry x="280" y="29" width="100" height="501" as="geometry" />
         </mxCell>
         <mxCell id="bF1Re2KAg_82YZjI6xNf-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bF1Re2KAg_82YZjI6xNf-5" vertex="1">
@@ -1054,6 +1054,9 @@
           <mxGeometry x="-0.094" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3ODN4K9iXWVhCET45gGi-1" value="&lt;i&gt;&lt;b&gt;Microservice. &lt;/b&gt;Voir annexe 2 microservice.&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RsBT3Mp0zNSIhCZ6fl6-1">
+          <mxGeometry x="9" y="570" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bF1Re2KAg_82YZjI6xNf-19" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
