@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T10:02:11.493Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="BNHwyNHnvU_3a9Wlffxa" version="22.0.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-02T10:12:09.750Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="sD5VMOLjgjf6duzXz057" version="22.0.0" type="github" pages="7">
   <diagram name="DCU-1-CATALOGUE" id="7dpw0_pMJvslr6yB-3tk">
     <mxGraphModel dx="2237" dy="1569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -936,11 +936,6 @@
             <mxPoint x="135" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bF1Re2KAg_82YZjI6xNf-47" value="Retourne message de succès" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bF1Re2KAg_82YZjI6xNf-46" vertex="1" connectable="0">
-          <mxGeometry x="-0.0809" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="u_IbUFkueJz0rtt-xbiZ-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bF1Re2KAg_82YZjI6xNf-38" vertex="1">
           <mxGeometry x="305" y="89" width="10" height="41" as="geometry" />
         </mxCell>
@@ -960,8 +955,8 @@
         <mxCell id="yD8NGxwJsWdbCHve_7js-1" value="Administrateur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="9RsBT3Mp0zNSIhCZ6fl6-1" vertex="1">
           <mxGeometry x="102" y="27" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cHtUBU7bc66GfD6bSxM3-1" value="&lt;i&gt;&lt;b&gt;Microservice. Voir&amp;nbsp; annexe 2 microservice.&lt;/b&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RsBT3Mp0zNSIhCZ6fl6-1">
-          <mxGeometry x="5" y="480" width="260" height="30" as="geometry" />
+        <mxCell id="cHtUBU7bc66GfD6bSxM3-1" value="&lt;b&gt;FEMI Admin&lt;/b&gt;:&amp;nbsp;&lt;i style=&quot;font-weight: bold;&quot;&gt;&amp;nbsp;&lt;/i&gt;est notre système d&#39;information chargé de la gestion de la boutique" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RsBT3Mp0zNSIhCZ6fl6-1">
+          <mxGeometry x="5" y="490" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bF1Re2KAg_82YZjI6xNf-5" value="&amp;lt;&amp;lt;Système&amp;gt;&amp;gt;&lt;br&gt;FEMI Admin" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9RsBT3Mp0zNSIhCZ6fl6-1" vertex="1">
           <mxGeometry x="280" y="29" width="100" height="460" as="geometry" />
