@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T11:21:53.070Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vikTk9vjvCSKWab264Xj" version="22.0.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-02T11:22:28.568Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9IZAn2I5PBTl835M_ggj" version="22.0.0" type="github" pages="7">
   <diagram name="DCU-1-CATALOGUE" id="7dpw0_pMJvslr6yB-3tk">
     <mxGraphModel dx="2237" dy="1569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1321,7 +1321,7 @@
         <mxCell id="ha6LMyDZ99bXuU-YFwYT-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="ha6LMyDZ99bXuU-YFwYT-5" vertex="1">
           <mxGeometry x="45" y="238" width="10" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="ha6LMyDZ99bXuU-YFwYT-1" value="Application mobile" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="ha6LMyDZ99bXuU-YFwYT-34" vertex="1">
+        <mxCell id="ha6LMyDZ99bXuU-YFwYT-1" value="&amp;lt;&amp;lt;Système&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Application mobile" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="ha6LMyDZ99bXuU-YFwYT-34" vertex="1">
           <mxGeometry x="260" y="50" width="100" height="510" as="geometry" />
         </mxCell>
         <mxCell id="ha6LMyDZ99bXuU-YFwYT-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="ha6LMyDZ99bXuU-YFwYT-1" vertex="1">
@@ -1413,7 +1413,7 @@
             <mxPoint x="-20" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g8qHb2NRGQ7MmVn071y2-13" value="Application web administrateur" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="ha6LMyDZ99bXuU-YFwYT-34" vertex="1">
+        <mxCell id="g8qHb2NRGQ7MmVn071y2-13" value="&amp;lt;&amp;lt;Système&amp;gt;&amp;gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;FEMI Admin" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="ha6LMyDZ99bXuU-YFwYT-34" vertex="1">
           <mxGeometry x="900" y="50" width="100" height="510" as="geometry" />
         </mxCell>
         <mxCell id="g8qHb2NRGQ7MmVn071y2-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="g8qHb2NRGQ7MmVn071y2-13" vertex="1">
