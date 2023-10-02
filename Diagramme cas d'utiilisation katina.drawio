@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T18:05:26.814Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="4q9wd7_8RNcsa9IdT9Qt" version="22.0.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-10-02T18:08:28.011Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MaLS7h1wrpQqweeUDPGW" version="22.0.0" type="github" pages="9">
   <diagram name="DCU-1-CATALOGUE" id="7dpw0_pMJvslr6yB-3tk">
     <mxGraphModel dx="2237" dy="1569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1499,7 +1499,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gom9C0C9PLsym9vNdXYP" name="DCP-1-GESTION-PRODUIT">
-    <mxGraphModel dx="1912" dy="1860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1424" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1786,7 +1786,7 @@
         <mxCell id="DXDutTEowXK3qW-UR4Qo-81" value="&amp;lt;&amp;lt;dialogue&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;DétailProduit&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="590" y="532" width="210" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="DXDutTEowXK3qW-UR4Qo-82" value="- &amp;lt;&amp;lt;résultat&amp;gt;&amp;gt; détail produit : JSON" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="DXDutTEowXK3qW-UR4Qo-81">
+        <mxCell id="DXDutTEowXK3qW-UR4Qo-82" value="- &amp;lt;&amp;lt;résultat&amp;gt;&amp;gt; détail produit : string" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="DXDutTEowXK3qW-UR4Qo-81">
           <mxGeometry y="55" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DXDutTEowXK3qW-UR4Qo-83" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="DXDutTEowXK3qW-UR4Qo-81">
@@ -1801,7 +1801,7 @@
         <mxCell id="DXDutTEowXK3qW-UR4Qo-85" value="&amp;lt;&amp;lt;dialogue&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;AvisNoteProduit&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="640" y="130" width="240" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="DXDutTEowXK3qW-UR4Qo-86" value="- &amp;lt;&amp;lt;résultat&amp;gt;&amp;gt; avis et note produit : JSON" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="DXDutTEowXK3qW-UR4Qo-85">
+        <mxCell id="DXDutTEowXK3qW-UR4Qo-86" value="- &amp;lt;&amp;lt;résultat&amp;gt;&amp;gt; avis et note produit : string" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="DXDutTEowXK3qW-UR4Qo-85">
           <mxGeometry y="55" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DXDutTEowXK3qW-UR4Qo-87" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="DXDutTEowXK3qW-UR4Qo-85">
