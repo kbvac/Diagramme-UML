@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T19:14:53.863Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ny2v7rmqObJE4FM1ZKcR" version="22.0.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-10-02T19:16:54.936Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="qwGvQbwdiH3-TjV6uUpS" version="22.0.0" type="github" pages="10">
   <diagram name="DCU-1-CATALOGUE" id="7dpw0_pMJvslr6yB-3tk">
     <mxGraphModel dx="2237" dy="1569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2738,7 +2738,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WiLT8OvHSlhxx8kPYe7M-7" value="&lt;b&gt;Etape&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="523" width="179" height="123" as="geometry" />
+          <mxGeometry x="1630" y="523" width="179" height="123" as="geometry" />
         </mxCell>
         <mxCell id="WiLT8OvHSlhxx8kPYe7M-8" value="id:int" style="text;html=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="WiLT8OvHSlhxx8kPYe7M-7">
           <mxGeometry y="55" width="179" height="20" as="geometry" />
@@ -2795,7 +2795,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WiLT8OvHSlhxx8kPYe7M-20" value="&lt;b&gt;Achat&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="710" width="179" height="203" as="geometry" />
+          <mxGeometry x="1620" y="700" width="179" height="203" as="geometry" />
         </mxCell>
         <mxCell id="WiLT8OvHSlhxx8kPYe7M-21" value="id:int" style="text;html=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="WiLT8OvHSlhxx8kPYe7M-20">
           <mxGeometry y="55" width="179" height="20" as="geometry" />
@@ -2827,7 +2827,7 @@
             <mxPoint x="1560" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WiLT8OvHSlhxx8kPYe7M-30" value="0..1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WiLT8OvHSlhxx8kPYe7M-29">
+        <mxCell id="WiLT8OvHSlhxx8kPYe7M-30" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WiLT8OvHSlhxx8kPYe7M-29">
           <mxGeometry x="-0.7626" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
