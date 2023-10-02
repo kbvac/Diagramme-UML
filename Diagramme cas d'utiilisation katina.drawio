@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T10:36:23.383Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="PoduXtkQDrPhNKQOHtir" version="22.0.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-10-02T10:36:55.260Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="nKokTDXEe5UozKkFL7NK" version="22.0.0" type="github" pages="7">
   <diagram name="DCU-1-CATALOGUE" id="7dpw0_pMJvslr6yB-3tk">
     <mxGraphModel dx="2237" dy="1569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -903,7 +903,7 @@
             <mxPoint x="505" y="158" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bF1Re2KAg_82YZjI6xNf-16" value="Obtenir token()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bF1Re2KAg_82YZjI6xNf-14" vertex="1" connectable="0">
+        <mxCell id="bF1Re2KAg_82YZjI6xNf-16" value="Obtenir &lt;i&gt;token&lt;/i&gt;()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bF1Re2KAg_82YZjI6xNf-14" vertex="1" connectable="0">
           <mxGeometry x="-0.1423" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -967,7 +967,7 @@
         <mxCell id="bF1Re2KAg_82YZjI6xNf-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="bF1Re2KAg_82YZjI6xNf-5" vertex="1">
           <mxGeometry x="55" y="160" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bF1Re2KAg_82YZjI6xNf-30" value="Ajouter token &lt;br&gt;au formulaire" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="bF1Re2KAg_82YZjI6xNf-5" edge="1">
+        <mxCell id="bF1Re2KAg_82YZjI6xNf-30" value="Ajouter &lt;i&gt;token &lt;/i&gt;&lt;br&gt;au formulaire" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="bF1Re2KAg_82YZjI6xNf-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="161.03999999999996" as="sourcePoint" />
             <Array as="points">
@@ -986,7 +986,7 @@
             <mxPoint x="335" y="169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bF1Re2KAg_82YZjI6xNf-18" value="Renvoie token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bF1Re2KAg_82YZjI6xNf-17" vertex="1" connectable="0">
+        <mxCell id="bF1Re2KAg_82YZjI6xNf-18" value="Renvoie &lt;i&gt;token&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bF1Re2KAg_82YZjI6xNf-17" vertex="1" connectable="0">
           <mxGeometry x="-0.0809" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
