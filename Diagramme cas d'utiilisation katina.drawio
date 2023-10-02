@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T17:08:30.144Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9RJOv2kkwssHUorgTaZt" version="22.0.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-10-02T17:15:54.888Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="24IETWPR4Am3g_JlDUFP" version="22.0.0" type="github" pages="9">
   <diagram name="DCU-1-CATALOGUE" id="7dpw0_pMJvslr6yB-3tk">
     <mxGraphModel dx="2237" dy="1569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1499,7 +1499,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gom9C0C9PLsym9vNdXYP" name="DCP-4-GESTION-PRODUIT">
-    <mxGraphModel dx="2154" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2664" dy="2338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2103,6 +2103,14 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5KgQ5h6Ws5hwA7fORHsi" name="Page-9">
+    <mxGraphModel dx="1194" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
