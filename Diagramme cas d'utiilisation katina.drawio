@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T22:46:50.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Z_UULlw1hYFahoQ2FCRQ" version="22.0.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-10-03T08:39:10.096Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="KEWErckT8l3nZmVbiRd_" version="22.0.1" type="github" pages="10">
   <diagram name="DCU-1-CATALOGUE" id="7dpw0_pMJvslr6yB-3tk">
     <mxGraphModel dx="2237" dy="1569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -909,7 +909,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9RsBT3Mp0zNSIhCZ6fl6-1" value="DS authentification" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="10" width="800" height="610" as="geometry" />
+          <mxGeometry x="-20" y="10" width="800" height="580" as="geometry" />
         </mxCell>
         <mxCell id="yD8NGxwJsWdbCHve_7js-1" value="Administrateur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="9RsBT3Mp0zNSIhCZ6fl6-1" vertex="1">
           <mxGeometry x="102" y="27" width="100" height="30" as="geometry" />
@@ -1054,9 +1054,6 @@
           <mxGeometry x="-0.094" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="3ODN4K9iXWVhCET45gGi-1" value="&lt;i&gt;&lt;b&gt;Microservice. &lt;/b&gt;Voir annexe 2 microservice.&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="9RsBT3Mp0zNSIhCZ6fl6-1" vertex="1">
-          <mxGeometry x="9" y="570" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bF1Re2KAg_82YZjI6xNf-19" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
