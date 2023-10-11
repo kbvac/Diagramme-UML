@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T18:27:35.925Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="2UTWQCj9QrFnbNDpi84d" version="22.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-11T18:27:58.028Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IrKIOAJCTvFcVHcfa8Qg" version="22.0.4" type="github" pages="4">
   <diagram name="DCU-CLIENT" id="I69ZrJ3DVeAubqPHy6Zh">
     <mxGraphModel dx="1103" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JZUBcqBdHI38rkSBJD7N" name="DS-VOTE">
-    <mxGraphModel dx="1366" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,7 +263,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6ACLgs6ae4o5iwLyR_9W" name="DS-Verification">
-    <mxGraphModel dx="2336" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -282,10 +282,10 @@
         <mxCell id="ZeymTlRCLz36IPvFuQh5-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ZeymTlRCLz36IPvFuQh5-1">
           <mxGeometry x="45" y="90" width="10" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="ZeymTlRCLz36IPvFuQh5-3" value="Accéder interface&lt;br&gt;&amp;nbsp;de vote" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;exitX=0.886;exitY=0.074;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NTXmu_5m_bFcN84rkHJy-2" target="ZeymTlRCLz36IPvFuQh5-1">
+        <mxCell id="ZeymTlRCLz36IPvFuQh5-3" value="Accéder interface&lt;br&gt;&amp;nbsp;de vote" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;exitX=0.886;exitY=0.074;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="0.0003" width="160" relative="1" as="geometry">
-            <mxPoint x="90" y="200" as="sourcePoint" />
-            <mxPoint x="250" y="200" as="targetPoint" />
+            <mxPoint x="63.86000000000013" y="207.92399999999986" as="sourcePoint" />
+            <mxPoint x="299.5" y="207.92399999999986" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
