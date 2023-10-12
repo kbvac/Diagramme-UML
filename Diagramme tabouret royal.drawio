@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T19:09:00.219Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nTjCMaMRzJMTzQJw_KU6" version="22.0.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-10-12T16:03:00.214Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="2LM_14T2UIpah7v6l5pP" version="22.0.4" type="github" pages="9">
   <diagram name="DCU-CLIENT" id="I69ZrJ3DVeAubqPHy6Zh">
     <mxGraphModel dx="1103" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -573,7 +573,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jByiORS1Pv8X4yAuy5Xf" name="DCP-GESTION-CANDIDATE">
-    <mxGraphModel dx="1974" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -653,7 +653,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="67KkfPEi9BPIc76IHvSU" name="Page-7">
+  <diagram id="67KkfPEi9BPIc76IHvSU" name="DCP-GESTION-ADMIN">
     <mxGraphModel dx="2193" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -737,7 +737,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Be0hBsqjdESLixIX6RkG" name="Page-8">
+  <diagram id="Be0hBsqjdESLixIX6RkG" name="DCP-GESTION-EVENEMENT">
     <mxGraphModel dx="2336" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -812,8 +812,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="iUDD91Ad9TnuLEViU5fl" name="Page-9">
-    <mxGraphModel dx="2022" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="iUDD91Ad9TnuLEViU5fl" name="DCP-PAGE-ACCUEIL">
+    <mxGraphModel dx="2131" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
