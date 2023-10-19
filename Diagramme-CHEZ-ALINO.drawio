@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T09:56:49.708Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="dlK4qENCe_Kxrpk4Nthm" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-19T09:58:24.625Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="X-b4DkOdPjkU-gPRSdAC" version="22.0.4" type="github" pages="2">
   <diagram name="DCU-GESTION-CARTE" id="VVT_rbBx6DJ3inKtZTUR">
     <mxGraphModel dx="738" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bptloFo_OnKCybxd525l-29" value="Exporter liste des produits" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="30" width="110" height="40" as="geometry" />
+          <mxGeometry x="490" y="110" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bptloFo_OnKCybxd525l-30" value="Consulter liste menu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312" y="60" width="86" height="40" as="geometry" />
@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bptloFo_OnKCybxd525l-32" value="Voir détail, avis et note produits" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="80" width="110" height="40" as="geometry" />
+          <mxGeometry x="490" y="30" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bptloFo_OnKCybxd525l-33" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1" source="bptloFo_OnKCybxd525l-32" target="bptloFo_OnKCybxd525l-30">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kRhZnXcHObBAStlScJWK-1" value="Attribuer/Retirer promotion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="220" width="104" height="50" as="geometry" />
+          <mxGeometry x="312" y="220" width="98" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kRhZnXcHObBAStlScJWK-2" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="kRhZnXcHObBAStlScJWK-1" target="bptloFo_OnKCybxd525l-10">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -125,7 +125,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2WyjgvtseWEjTx2Jox8Z" name="Page-2">
-    <mxGraphModel dx="682" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,7 +142,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZCpntKi10QOORKuHB4Zs-4" value="CRUD" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="85" width="60" height="30" as="geometry" />
+          <mxGeometry x="426" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZCpntKi10QOORKuHB4Zs-9" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="ZCpntKi10QOORKuHB4Zs-4" target="ZCpntKi10QOORKuHB4Zs-2">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -211,7 +211,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ypRZyPlAgmep4_6XNjD2-1" value="Exporter liste" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="390" width="90" height="40" as="geometry" />
+          <mxGeometry x="450" y="390" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ypRZyPlAgmep4_6XNjD2-2" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1" source="ypRZyPlAgmep4_6XNjD2-1" target="03IARrvH_rtqOVbpsFZn-1">
           <mxGeometry width="160" relative="1" as="geometry">
