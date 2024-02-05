@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T19:28:17.021Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="z5uuT7-Dg4QjJyd9cbXF" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T19:29:11.934Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="_1_v9DaBITH7l-nVpm-8" version="23.1.1" type="github">
   <diagram name="DCU-" id="vvH7tQAIB8efV-H2PCTL">
     <mxGraphModel dx="2021" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -372,7 +372,7 @@
           <mxGeometry x="95" y="1330" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JLkNHgQ8E4QNF3Rp4K6H-98" value="CONSULTER LISTE COMMANDE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1460" width="130" height="60" as="geometry" />
+          <mxGeometry x="180" y="1440" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JLkNHgQ8E4QNF3Rp4K6H-99" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;" edge="1" parent="1" source="JLkNHgQ8E4QNF3Rp4K6H-67" target="JLkNHgQ8E4QNF3Rp4K6H-97">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -381,7 +381,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JLkNHgQ8E4QNF3Rp4K6H-100" value="VALIDER/REFUSER PANIER" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1430" width="130" height="60" as="geometry" />
+          <mxGeometry x="310" y="1330" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JLkNHgQ8E4QNF3Rp4K6H-101" value="" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;" edge="1" parent="1" source="JLkNHgQ8E4QNF3Rp4K6H-100" target="JLkNHgQ8E4QNF3Rp4K6H-97">
           <mxGeometry relative="1" as="geometry">
@@ -411,15 +411,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JLkNHgQ8E4QNF3Rp4K6H-107" value="DEFINIR PROCHAINE ETAPE DE COMMANDE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1350" width="170" height="80" as="geometry" />
+          <mxGeometry x="230" y="1200" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JLkNHgQ8E4QNF3Rp4K6H-108" value="CONSULTER DETAILS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="1510" width="130" height="60" as="geometry" />
+          <mxGeometry x="310" y="1550" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JLkNHgQ8E4QNF3Rp4K6H-109" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="JLkNHgQ8E4QNF3Rp4K6H-109" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1" source="JLkNHgQ8E4QNF3Rp4K6H-100" target="JLkNHgQ8E4QNF3Rp4K6H-108">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="490" y="520" as="sourcePoint" />
-            <mxPoint x="515" y="459" as="targetPoint" />
+            <mxPoint x="530.8732484886481" y="1520.0035283883553" as="sourcePoint" />
+            <mxPoint x="449.9982059024509" y="1443.900338893613" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
