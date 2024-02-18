@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T22:52:42.985Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="pI2KsoFCzaHixduAPwW9" version="23.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-18T22:53:25.065Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4mQHv-EhaYB3RxQTfaIx" version="23.1.5" type="github" pages="2">
   <diagram name="DCU-MFS" id="vvH7tQAIB8efV-H2PCTL">
     <mxGraphModel dx="2021" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -706,7 +706,7 @@
           <mxGeometry x="670" y="80" width="100" height="920" as="geometry" />
         </mxCell>
         <mxCell id="ipOtJiOB3k8KSACAuPvh-44" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="ipOtJiOB3k8KSACAuPvh-43" vertex="1">
-          <mxGeometry x="45" y="520" width="10" height="370" as="geometry" />
+          <mxGeometry x="45" y="650" width="10" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ipOtJiOB3k8KSACAuPvh-47" value="MS Commande" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="820" y="80" width="100" height="980" as="geometry" />
