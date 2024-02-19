@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T08:29:07.569Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="lImbOr26bY0ZqVYm98hy" version="23.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-19T08:30:33.075Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="WYD8IilONg6J1vVm4j6q" version="23.1.5" type="github" pages="3">
   <diagram name="DCU-MFS" id="vvH7tQAIB8efV-H2PCTL">
     <mxGraphModel dx="2021" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -518,7 +518,7 @@
         <mxCell id="HqDpMVcycAOuSt5KwO2f-8" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" parent="HqDpMVcycAOuSt5KwO2f-7" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqDpMVcycAOuSt5KwO2f-12" value="Etape final pour la livraison" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;spacingLeft=5;" parent="JLkNHgQ8E4QNF3Rp4K6H-122" vertex="1">
+        <mxCell id="HqDpMVcycAOuSt5KwO2f-12" value="Seulement à l&#39;étape final pour la livraison" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;spacingLeft=5;" parent="JLkNHgQ8E4QNF3Rp4K6H-122" vertex="1">
           <mxGeometry x="180" y="1260" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HqDpMVcycAOuSt5KwO2f-14" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;" parent="JLkNHgQ8E4QNF3Rp4K6H-122" target="HqDpMVcycAOuSt5KwO2f-12" edge="1">
