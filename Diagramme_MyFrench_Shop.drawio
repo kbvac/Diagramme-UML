@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T19:51:58.781Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="uUx92WI4gy-TTPm6mUON" version="23.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-25T19:52:48.210Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="_xMO61270tGe9oXF0KuR" version="23.1.5" type="github" pages="5">
   <diagram name="DCU-MFS" id="vvH7tQAIB8efV-H2PCTL">
     <mxGraphModel dx="2021" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1552,7 +1552,7 @@
           <mxGeometry x="-1640" y="590" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mzf1eI7AoGnvX9M9wmyH-1" value="&amp;lt;&amp;lt;Dialogue&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;GestionCommandes&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1410" y="470" width="310" height="263" as="geometry" />
+          <mxGeometry x="-1410" y="470" width="310" height="283" as="geometry" />
         </mxCell>
         <mxCell id="Mzf1eI7AoGnvX9M9wmyH-2" value="attributes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="Mzf1eI7AoGnvX9M9wmyH-1">
           <mxGeometry y="55" width="310" height="20" as="geometry" />
@@ -1586,6 +1586,9 @@
         </mxCell>
         <mxCell id="-Zm4wfMi71il2nlAVGhl-6" value="reglerCommande()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="Mzf1eI7AoGnvX9M9wmyH-1">
           <mxGeometry y="243" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="78ephHV3pOm2g6t2l0NX-3" value="exporterListeCommande()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="Mzf1eI7AoGnvX9M9wmyH-1">
+          <mxGeometry y="263" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="78ephHV3pOm2g6t2l0NX-1" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;" edge="1" parent="1" source="NPoRQf2wZDqfHm49jUMT-1" target="Mzf1eI7AoGnvX9M9wmyH-1">
           <mxGeometry width="160" relative="1" as="geometry">
