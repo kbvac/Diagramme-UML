@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T21:41:10.553Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="XYMJRsPMo2C8JcSXtK6W" version="23.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-25T21:42:56.443Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="d3c_TLN_WuIlOGMBbLCy" version="23.1.5" type="github" pages="5">
   <diagram name="DCU-MFS" id="vvH7tQAIB8efV-H2PCTL">
     <mxGraphModel dx="2232" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1213,7 +1213,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VU4sIWfbwW789g52thNs-2" value="&amp;lt;&amp;lt;entité&amp;gt;&amp;gt;&lt;br&gt;&lt;span&gt;Commande&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="1190" width="140" height="303" as="geometry" />
+          <mxGeometry x="80" y="1220" width="140" height="303" as="geometry" />
         </mxCell>
         <mxCell id="VU4sIWfbwW789g52thNs-3" value="attributes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="VU4sIWfbwW789g52thNs-2" vertex="1">
           <mxGeometry y="55" width="140" height="20" as="geometry" />
