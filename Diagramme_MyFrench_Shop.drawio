@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T20:58:29.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="dcrXT5NGUm_AK3pbQ1p5" version="23.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-25T21:00:52.725Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="bppmsgw4h-CbJ6XI_pVk" version="23.1.5" type="github" pages="5">
   <diagram name="DCU-MFS" id="vvH7tQAIB8efV-H2PCTL">
     <mxGraphModel dx="2021" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1736,6 +1736,31 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-1570" y="795" as="sourcePoint" />
             <mxPoint x="-1370" y="790" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdL2B-TumOpxU4mq_vGU-3" value="&amp;lt;&amp;lt;contrôle&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;CtrlPromo&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="800" width="230" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="tdL2B-TumOpxU4mq_vGU-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="tdL2B-TumOpxU4mq_vGU-3">
+          <mxGeometry y="55" width="230" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="tdL2B-TumOpxU4mq_vGU-13" value="ajouterPromo(Client)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="tdL2B-TumOpxU4mq_vGU-3">
+          <mxGeometry y="63" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tdL2B-TumOpxU4mq_vGU-14" value="supprimerPromo()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="tdL2B-TumOpxU4mq_vGU-3">
+          <mxGeometry y="83" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tdL2B-TumOpxU4mq_vGU-15" value="modifierPromo()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="tdL2B-TumOpxU4mq_vGU-3">
+          <mxGeometry y="103" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tdL2B-TumOpxU4mq_vGU-11" value="getAllPromo()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="tdL2B-TumOpxU4mq_vGU-3">
+          <mxGeometry y="123" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tdL2B-TumOpxU4mq_vGU-12" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;" edge="1" parent="1" source="3Kc_s7ZIg013fUjye3R5-3" target="tdL2B-TumOpxU4mq_vGU-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1130" y="870" as="sourcePoint" />
+            <mxPoint x="-880" y="870" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
