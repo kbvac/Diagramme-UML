@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T21:01:26.361Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="BLzSKSufH9ixMPROWnpw" version="23.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-25T21:39:11.883Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ad4O0B8r9uLPRTMsXT1A" version="23.1.5" type="github" pages="5">
   <diagram name="DCU-MFS" id="vvH7tQAIB8efV-H2PCTL">
-    <mxGraphModel dx="2021" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2232" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -999,7 +999,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SpxVwAlObJhIwBezveGr" name="DCP-MFS-CLIENT">
-    <mxGraphModel dx="2496" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2695" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1317,7 +1317,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xpzkt7iTJPCmiixur_q0-18" value="&amp;lt;&amp;lt;entité&amp;gt;&amp;gt;&lt;br&gt;&lt;span&gt;Devis&lt;br&gt;&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="150" y="850" width="200" height="323" as="geometry" />
+          <mxGeometry x="150" y="850" width="200" height="343" as="geometry" />
         </mxCell>
         <mxCell id="Xpzkt7iTJPCmiixur_q0-19" value="attributes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="Xpzkt7iTJPCmiixur_q0-18" vertex="1">
           <mxGeometry y="55" width="200" height="20" as="geometry" />
@@ -1343,23 +1343,26 @@
         <mxCell id="VU4sIWfbwW789g52thNs-20" value="tva:double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="Xpzkt7iTJPCmiixur_q0-18" vertex="1">
           <mxGeometry y="195" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Xpzkt7iTJPCmiixur_q0-49" value="poidPrevisionnel:double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="Xpzkt7iTJPCmiixur_q0-18" vertex="1">
+        <mxCell id="dMtV96TxwkYYiaVGH7xY-1" value="poidPrevisionnelMini:double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="Xpzkt7iTJPCmiixur_q0-18">
           <mxGeometry y="215" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Xpzkt7iTJPCmiixur_q0-28" value="poidTotal:double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="Xpzkt7iTJPCmiixur_q0-18" vertex="1">
+        <mxCell id="Xpzkt7iTJPCmiixur_q0-49" value="poidPrevisionnelMax:double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="Xpzkt7iTJPCmiixur_q0-18" vertex="1">
           <mxGeometry y="235" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Xpzkt7iTJPCmiixur_q0-33" value="fraisServiceFixe:double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="Xpzkt7iTJPCmiixur_q0-18" vertex="1">
+        <mxCell id="Xpzkt7iTJPCmiixur_q0-28" value="poidTotal:double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="Xpzkt7iTJPCmiixur_q0-18" vertex="1">
           <mxGeometry y="255" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Xpzkt7iTJPCmiixur_q0-52" value="fraisServicePoucentage:double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="Xpzkt7iTJPCmiixur_q0-18" vertex="1">
+        <mxCell id="Xpzkt7iTJPCmiixur_q0-33" value="fraisServiceFixe:double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="Xpzkt7iTJPCmiixur_q0-18" vertex="1">
           <mxGeometry y="275" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Xpzkt7iTJPCmiixur_q0-34" value="fraisExpeditionparKG:double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="Xpzkt7iTJPCmiixur_q0-18" vertex="1">
+        <mxCell id="Xpzkt7iTJPCmiixur_q0-52" value="fraisServicePoucentage:double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="Xpzkt7iTJPCmiixur_q0-18" vertex="1">
           <mxGeometry y="295" width="200" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Xpzkt7iTJPCmiixur_q0-34" value="fraisExpeditionparKG:double" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="Xpzkt7iTJPCmiixur_q0-18" vertex="1">
+          <mxGeometry y="315" width="200" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="Xpzkt7iTJPCmiixur_q0-35" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Xpzkt7iTJPCmiixur_q0-18" vertex="1">
-          <mxGeometry y="315" width="200" height="8" as="geometry" />
+          <mxGeometry y="335" width="200" height="8" as="geometry" />
         </mxCell>
         <mxCell id="Xpzkt7iTJPCmiixur_q0-36" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;" parent="1" source="Xpzkt7iTJPCmiixur_q0-18" target="Xpzkt7iTJPCmiixur_q0-40" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -1547,7 +1550,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q64CMaxtOE-2mF6xy12S" name="DCP-MFS-ADMINISTRATEURS">
-    <mxGraphModel dx="3292" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3292" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
