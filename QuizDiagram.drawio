@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T17:33:44.058Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="v0HkgZflJnXDnvUhfkzZ" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T17:47:24.485Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="6FVgVH2Csj8AHNMTzRWy" version="23.1.6" type="github">
   <diagram name="DCU-Quiz" id="qdEKVcrkpriq7ZI47U5G">
-    <mxGraphModel dx="1318" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1176" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="350" y="200" width="720" height="990" as="geometry" />
         </mxCell>
         <mxCell id="q_01qjkOqOAWfI39asXP-12" value="ACTIVER COMPTE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="q_01qjkOqOAWfI39asXP-10">
-          <mxGeometry x="120" y="230" width="120" height="50" as="geometry" />
+          <mxGeometry x="100" y="215" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q_01qjkOqOAWfI39asXP-15" value="DESACTIVER COMPTE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="q_01qjkOqOAWfI39asXP-10">
           <mxGeometry x="440" y="80" width="120" height="50" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="240" y="500" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q_01qjkOqOAWfI39asXP-43" value="CONSULTER LES PRIX" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="q_01qjkOqOAWfI39asXP-10">
-          <mxGeometry x="10" y="480" width="120" height="50" as="geometry" />
+          <mxGeometry x="220" y="240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q_01qjkOqOAWfI39asXP-44" value="ACCEPTER POLITIQUE DE CONFIDENTIALITÉ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="q_01qjkOqOAWfI39asXP-10">
           <mxGeometry x="570" y="100" width="140" height="70" as="geometry" />
@@ -153,7 +153,7 @@
           <mxGeometry x="575" y="540" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q_01qjkOqOAWfI39asXP-96" value="CONSULTER CLASSMENT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="q_01qjkOqOAWfI39asXP-10">
-          <mxGeometry x="100" y="560" width="130" height="50" as="geometry" />
+          <mxGeometry x="140" y="560" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q_01qjkOqOAWfI39asXP-97" value="" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;" edge="1" parent="q_01qjkOqOAWfI39asXP-10" source="q_01qjkOqOAWfI39asXP-96" target="q_01qjkOqOAWfI39asXP-50">
           <mxGeometry relative="1" as="geometry">
@@ -194,6 +194,9 @@
             <mxPoint x="643" y="600" as="sourcePoint" />
             <mxPoint x="607" y="530" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="q_01qjkOqOAWfI39asXP-106" value="CONSULTER CLASSMENT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="q_01qjkOqOAWfI39asXP-10">
+          <mxGeometry x="440" y="630" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q_01qjkOqOAWfI39asXP-18" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;" edge="1" parent="1" source="q_01qjkOqOAWfI39asXP-1" target="q_01qjkOqOAWfI39asXP-12">
           <mxGeometry width="160" relative="1" as="geometry">
