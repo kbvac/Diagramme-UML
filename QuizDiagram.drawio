@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T12:08:21.993Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Fol0qjfxdbcd3I7nVRUl" version="23.1.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-28T12:14:05.115Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="pLce9l6wGOttXVrilSDt" version="23.1.6" type="github" pages="3">
   <diagram name="DCU-Quiz" id="qdEKVcrkpriq7ZI47U5G">
     <mxGraphModel dx="3660" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -681,12 +681,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0mWProan0XDQsZTXIBUd" name="DS-JOUER-QUIZ-SMS">
-    <mxGraphModel dx="1986" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eWJ-Lkr1AE2Grumc6CYF-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="70" y="80" width="20" height="460" as="geometry" />
+          <mxGeometry x="70" y="80" width="20" height="520" as="geometry" />
         </mxCell>
         <mxCell id="eWJ-Lkr1AE2Grumc6CYF-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="eWJ-Lkr1AE2Grumc6CYF-1">
           <mxGeometry x="5" y="80" width="10" height="350" as="geometry" />
