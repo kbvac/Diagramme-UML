@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T19:10:04.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="KtPLZ_aQ39CzB17NsXs1" version="23.1.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-28T19:11:16.880Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gXWaB8ghrtUj6ZYfY99v" version="23.1.6" type="github" pages="5">
   <diagram name="DCU-Quiz" id="qdEKVcrkpriq7ZI47U5G">
     <mxGraphModel dx="3660" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1164,16 +1164,13 @@
             <mxPoint x="215" y="54.56999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ohh2V8wTfLiW4Ntw9fnZ-2" value="pageReponseQuiz" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ohh2V8wTfLiW4Ntw9fnZ-1">
+        <mxCell id="Ohh2V8wTfLiW4Ntw9fnZ-2" value="pageQuiz" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ohh2V8wTfLiW4Ntw9fnZ-1">
           <mxGeometry x="-0.0953" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ohh2V8wTfLiW4Ntw9fnZ-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="m_32vSgNoHLZo55050B5-7">
           <mxGeometry x="205" y="30" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Ohh2V8wTfLiW4Ntw9fnZ-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-270" y="740" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
