@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T16:55:08.077Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="CUohXIrXjr4_HwLnMBKk" version="23.1.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-28T17:02:14.815Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="RhYuclI4NBwP0aPF2DwR" version="23.1.6" type="github" pages="4">
   <diagram name="DCU-Quiz" id="qdEKVcrkpriq7ZI47U5G">
     <mxGraphModel dx="3660" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -845,7 +845,7 @@
         <mxCell id="GJDie0-54dZ9FWR1ZmzD-16" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=80;height=20;" vertex="1" parent="fvjVLwNrTN-ChCTeYdeL-1">
           <mxGeometry x="60" y="380" width="810" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="GJDie0-54dZ9FWR1ZmzD-17" value="[NbrQuestion&amp;gt;0]&amp;nbsp;" style="text;html=1;" vertex="1" parent="GJDie0-54dZ9FWR1ZmzD-16">
+        <mxCell id="GJDie0-54dZ9FWR1ZmzD-17" value="[ NbrQuestion &amp;gt; 0 &lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;timeQuiz &amp;gt; 0 ]&amp;nbsp;" style="text;html=1;" vertex="1" parent="GJDie0-54dZ9FWR1ZmzD-16">
           <mxGeometry width="100" height="20" relative="1" as="geometry">
             <mxPoint x="20" y="40" as="offset" />
           </mxGeometry>
