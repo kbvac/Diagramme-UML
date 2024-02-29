@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T11:03:56.997Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="pAiBZ_H6OVLo77snmiXY" version="23.1.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-29T11:06:19.153Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="AXn4cozyXtWK28WkyaDc" version="23.1.6" type="github" pages="4">
   <diagram name="DCU-Quiz" id="qdEKVcrkpriq7ZI47U5G">
     <mxGraphModel dx="3660" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -681,7 +681,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0mWProan0XDQsZTXIBUd" name="DS-JOUER-QUIZ-SMS">
-    <mxGraphModel dx="2497" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2070" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -742,17 +742,6 @@
         <mxCell id="h16Pj9VStfp6abUwpdmL-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="h16Pj9VStfp6abUwpdmL-12" vertex="1">
           <mxGeometry x="90" y="200" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_O7YuCEbUlxt3QXqP2_A-39" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="h16Pj9VStfp6abUwpdmL-12" vertex="1">
-          <mxGeometry x="90" y="650" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_O7YuCEbUlxt3QXqP2_A-40" value="générerPack et&amp;nbsp;&lt;br&gt;enregistrer" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="h16Pj9VStfp6abUwpdmL-12" target="_O7YuCEbUlxt3QXqP2_A-39" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="95" y="630" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="125" y="660" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="h16Pj9VStfp6abUwpdmL-16" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" source="h16Pj9VStfp6abUwpdmL-9" target="h16Pj9VStfp6abUwpdmL-13" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="525" y="282" as="sourcePoint" />
@@ -793,7 +782,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fvjVLwNrTN-ChCTeYdeL-12" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=20;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="180" width="1010" height="240" as="geometry" />
+          <mxGeometry x="-90" y="180" width="820" height="240" as="geometry" />
         </mxCell>
         <mxCell id="fvjVLwNrTN-ChCTeYdeL-18" value="[Si&amp;nbsp;result &amp;lt;=&amp;gt;&lt;br&gt;notFound]" style="text;html=1;" parent="fvjVLwNrTN-ChCTeYdeL-12" vertex="1">
           <mxGeometry x="5" y="30" width="45" height="20" as="geometry" />
@@ -832,9 +821,17 @@
         <mxCell id="_O7YuCEbUlxt3QXqP2_A-37" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;" parent="_O7YuCEbUlxt3QXqP2_A-19" vertex="1">
           <mxGeometry x="120" y="490" width="700" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_O7YuCEbUlxt3QXqP2_A-38" value="JOUER QUIZ SMS" style="text;align=center;html=1;" parent="_O7YuCEbUlxt3QXqP2_A-37" vertex="1">
+        <mxCell id="_O7YuCEbUlxt3QXqP2_A-38" value="DS-JOUER-QUIZ-SMS" style="text;align=center;html=1;" parent="_O7YuCEbUlxt3QXqP2_A-37" vertex="1">
           <mxGeometry width="100" height="20" relative="1" as="geometry">
             <mxPoint x="315" y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dfr8PIgUklE1ZwyTMqRN-3" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;" vertex="1" parent="_O7YuCEbUlxt3QXqP2_A-19">
+          <mxGeometry x="70" y="70" width="760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Dfr8PIgUklE1ZwyTMqRN-4" value="DS-MODELE-GAME-B1" style="text;align=center;html=1;" vertex="1" parent="Dfr8PIgUklE1ZwyTMqRN-3">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="300" y="80" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_O7YuCEbUlxt3QXqP2_A-28" value="6 envoyerResultat" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_O7YuCEbUlxt3QXqP2_A-27" target="GJDie0-54dZ9FWR1ZmzD-22" edge="1">
@@ -924,60 +921,8 @@
         <mxCell id="GJDie0-54dZ9FWR1ZmzD-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="75" y="990" width="10" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="GJDie0-54dZ9FWR1ZmzD-10" value="5 envoyerQuestions" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="325" y="840" as="sourcePoint" />
-            <mxPoint x="85" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GJDie0-54dZ9FWR1ZmzD-12" value="6 envoyerReponse" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="90" y="870" as="sourcePoint" />
-            <mxPoint x="325" y="870" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GJDie0-54dZ9FWR1ZmzD-13" value="6 envoyerReponse" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;" parent="1" target="tx7o40KxxYpswjO2JIDn-16" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="335" y="877" as="sourcePoint" />
-            <mxPoint x="619.5" y="877" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GJDie0-54dZ9FWR1ZmzD-16" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=80;height=20;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="780" width="810" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="GJDie0-54dZ9FWR1ZmzD-17" value="[ NbrQuestion &amp;gt; 0 &lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;dateQuizIsValide ]&amp;nbsp;" style="text;html=1;" parent="GJDie0-54dZ9FWR1ZmzD-16" vertex="1">
-          <mxGeometry width="100" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="40" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tx7o40KxxYpswjO2JIDn-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="660" y="800" width="10" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="GJDie0-54dZ9FWR1ZmzD-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="660" y="900" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GJDie0-54dZ9FWR1ZmzD-15" value="calculerScore et &lt;br&gt;EnregisterReponse" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" target="GJDie0-54dZ9FWR1ZmzD-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="665" y="880" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="695" y="910" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GJDie0-54dZ9FWR1ZmzD-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="660" y="990" width="10" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="AmSa5DqViJ3tc4P-TEBc-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="75" y="819.9999999999998" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="GJDie0-54dZ9FWR1ZmzD-9" value="4 envoyerQuestions" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;exitX=0.007;exitY=0.117;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tx7o40KxxYpswjO2JIDn-16" target="AmSa5DqViJ3tc4P-TEBc-2" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="640" y="820" as="sourcePoint" />
-            <mxPoint x="250" y="820" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AmSa5DqViJ3tc4P-TEBc-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="325" y="820" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_O7YuCEbUlxt3QXqP2_A-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="325" y="624" width="10" height="40" as="geometry" />
@@ -1009,7 +954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DkZlY-MRUXWbj3NY0avd" name="DS-JOUER-QUIZ-APP">
-    <mxGraphModel dx="2698" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3896" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
